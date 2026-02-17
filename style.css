@@ -1,0 +1,10 @@
+.container{
+    border: 10px;
+    font-size: 20;
+    padding: 20px;
+    flex: auto;
+    border-radius: 20px;
+    background-color: rgb(189, 121, 31);
+    background: image(img/bolu.jpg);
+}
+
