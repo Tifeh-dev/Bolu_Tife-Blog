@@ -1,10 +1,18 @@
+body{
+   background-image: url("./images/ife.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+    transition: all 0.5s ease-in-out;
+}
 .container{
+    margin: auto;
     border: 10px;
     font-size: 20;
     padding: 20px;
-    flex: auto;
+    /* flex: auto; */
     border-radius: 20px;
-    background-color: rgb(189, 121, 31);
-    background: image(img/bolu.jpg);
+    /* background-color: rgb(189, 121, 31); */
+    
 }
-
